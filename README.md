@@ -13,3 +13,5 @@
 <img width="335" height="133" alt="image" src="https://github.com/user-attachments/assets/3f530088-603d-4229-bb8e-86a618cf0a14" />
 
 ## ЛР3 shiny
+Построение через фреймворк shiny динамического графика.\
+<img width="890" height="552" alt="image" src="https://github.com/user-attachments/assets/9c3ee97c-2884-48d6-b301-748a144bfff6" />
